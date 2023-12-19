@@ -1,0 +1,6 @@
+#Reference
+
+container creation  :https://codebeast.works/container
+                    :https://pythonspeed.com/articles/conda-docker-image-size/
+                    :https://jcristharif.com/conda-docker-tips.html
+

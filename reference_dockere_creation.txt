@@ -4,3 +4,6 @@ container creation  :https://codebeast.works/container
                     :https://pythonspeed.com/articles/conda-docker-image-size/
                     :https://jcristharif.com/conda-docker-tips.html
 
+###reduce the size of docker container
+      https://jpetazzo.github.io/2020/03/01/quest-minimal-docker-images-part-2/
+
